@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Pedro Herrera
 
-<img width="100%" src="./github-header-image.png" alt="my banner">
+<img width="100%" src="./github-header-image(2).png" alt="my banner">
 
 I am a technical draftsman, mining engineer and now in the technology development world, primarily javascript backend (express, fastify), with SQL database management (MySQL, PostgreSQL, Sequelizer), my objective is to become a full developer cycle to master all processes in the creation of technology products,
 
