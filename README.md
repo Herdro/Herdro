@@ -2,7 +2,7 @@
 
 <img width="100%" src="./github-header-image(2).png" alt="my banner">
 
-I am a technical draftsman, mining engineer and now in the technology development world, primarily javascript backend (express, fastify), with SQL database management (MySQL, PostgreSQL, Sequelizer), my objective is to become a full developer cycle to master all processes in the creation of technology products,
+I am a technical draftsman, mining engineer and now in the technology development world, primarily javascript backend (express, fastify), with SQL database management (MySQL, PostgreSQL, Sequelizer), my objective is to become a software engineer to master all processes in the creation of technology products,
 
 ## 💫 Liitle Bit More About Me
 <p>💬 Ask me about Backend developer</p>
